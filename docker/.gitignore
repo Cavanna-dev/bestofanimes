@@ -1,0 +1,6 @@
+### database
+/database/data/*
+/database/init.sql
+
+### logs
+/logs/nginx/*
